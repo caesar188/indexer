@@ -1,0 +1,1 @@
+java -Xmx1g -classpath $indexer_cp com.ai.apaking.indexer.Main
